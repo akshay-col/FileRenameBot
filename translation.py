@@ -29,5 +29,4 @@ class Translation(object):
 2.🔹 <b>Reply to that message with /rename New file name.extnsion</b>
 3.🔹 <b>I Can Also Convert Streamable Videos Into Document</b>""  
     UPGRADE_TEXT = "contact @noob_admin"
-""
 
